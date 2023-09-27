@@ -19,7 +19,10 @@ Short summary on functionality and used technologies.
 
 ## Prerequisites
 
-> Any special pre-requisites?
+You need to give the web part name of the connected list. In workbench, click on the edit pen and in the name Opinion
+![image](https://github.com/EmmaFredingTwoday/FSPOS-OpinionWebPart/assets/146098824/4391ece4-2a81-4cf8-bb45-6e3f9f5c6574)
+
+The Opinion list is prepared with columns and some data. A calculated column takes care of the image url. 
 
 ## Solution
 
