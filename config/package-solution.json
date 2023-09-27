@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "fspos-opinion-client-side-solution",
+    "id": "37376e62-acff-4869-8ca1-8220c3562d32",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "FSPOS-Opinion description"
+      },
+      "longDescription": {
+        "default": "FSPOS-Opinion description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "fspos-opinion Feature",
+        "description": "The feature that activates elements of the fspos-opinion solution.",
+        "id": "465ebe96-0ca4-4487-951b-203451513d59",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/fspos-opinion.sppkg"
+  }
+}
