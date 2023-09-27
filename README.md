@@ -24,6 +24,7 @@ You need to give the web part name of the connected list. In workbench, click on
 You need to refresh the site after the list name value is typed.
 
 The Opinion list is prepared with columns and some data. A calculated column takes care of the image url. 
+Url to the Opinion list https://ovning.sharepoint.com/sites/FSPOS-labb/Lists/opinion
 
 ## Solution
 
